@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Juari29</string>
+    <string name="newgame">New Game</string>
+    <string name="credits">Credits</string>
+    <string name="exit">Exit</string>
+    <string name="sure">Are You Sure?</string>
+    <string name="yes">Yes</string>
+    <string name="No">No</string>
+    <string name="yours">Your Team</string>
+    <string name="opp">Opponent</string>
+    <string name="trump">Trump</string>
+    <string name="hand">Your Hand</string>
+    <string name="start">Start New Deal</string>
+    <string name="start1">Start</string>
+    <string name="log_fb">Login With Facebook</string>
+    <string name="log_google">Login With Google</string>
+    <string name="keep">Keep Me Signed In</string>
+</resources>
